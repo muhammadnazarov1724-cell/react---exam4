@@ -1,0 +1,782 @@
+{
+    "podbor": "Подбор авто",
+    "copmany": "О компании",
+    "tech" : "Техцентр",
+    "otziv": "Отзывы",
+    "contact": "Контакты",
+    "headerBtn": "Обратный звонок",
+    "navCatalog": "КАТАЛОГ АВТО",
+    "navUsedCars": "АВТО С ПРОБЕГОМ",
+    "navCredit": "КРЕДИТ И РАССРОЧКА",
+    "utilizia": "УТИЛИЗАЦИЯ АВТО",
+    "navTaxiCredit": "ТАКСИ В КРЕДИТ",
+
+  "footerNavCatalog": "КАТАЛОГ АВТО",
+  "footerNavUsed": "АВТО С ПРОБЕГОМ",
+  "footerNavCredit": "КРЕДИТ И РАССРОЧКА",
+  "footerNavOffers": "СПЕЦПРЕДЛОЖЕНИЯ",
+  "footerNavTaxi": "ТАКСИ В КРЕДИТ",
+  "footerCatalogTitle": "КАТАЛОГ АВТО",
+  "footerMore": "Подробнее",
+  "footerSitemap": "Карта сайта",
+  "footerCreditTitle": "КРЕДИТ И РАССРОЧКА",
+  "footerExpressCredit": "Экспресс-кредит",
+  "footerFamilyCar": "Семейный автомобиль",
+  "footerFirstCar": "Первый автомобиль",
+  "footerMedicalWorkers": "Работникам медицины",
+  "footerInstallment": "Рассрочка",
+  "footerTradeIn": "Trade-in",
+  "footerContactsTitle": "КОНТАКТЫ",
+  "footerSchedule": "Ежедневно с 08:00 до 21:00",
+  "footerAddress": "Россия, Москва, 38КМ МКАД, 6Бс1",
+  "footerMapRoute": "Схема проезда",
+  "footerCopyright": "© 2021 Автосалон \"ABC AUTO\". Официальный дилер",
+  "footerPrivacy": "Политика конфиденциальности",
+  "footerTerms": "Пользовательское соглашение",
+  "footerDisclaimer": "Обращаем Ваше внимание на то, что данный интернет-сайт носит исключительно информационный характер и ни при каких условиях не является публичной офертой, определяемой положениями Статьи 437 Гражданского кодекса Российской Федерации.",
+  "cityMoscow": "Москва",
+  "citySpb": "Санкт-Петербург",
+
+  "aboutTitle": "О компании",
+  "aboutMainDesc": "Официальный дилер Азимут Варшавка предлагает широкий выбор автомобилей различных цветов и комплектаций на самых выгодных условиях. На территории автосалона представлено свыше двухсот новых автомобилей и с пробегом. Среди ассортимента представленных автомобилей встречаются наиболее популярные представители европейского, азиатского и российского производства. Для каждого клиента в нашем автосалоне предоставляется полная персональная консультация по любому из представленных автомобилей. Подробнее о представленных в салоне моделях Вы можете узнать на сайте и у наших менеджеров.",
+  "aboutChooseText": "Выбирая автосалон Азимут Варшавка Вы получаете:",
+  "aboutAdv1": "самые выгодные цены на автомобили в Москве;",
+  "aboutAdv2": "возможность выбора автомобилей более чем из двухсот моделей различных цветов и комплектаций;",
+  "aboutAdv3": "приобретение автомобилей с пробегом, прошедших предпродажную подготовку и юридическую экспертизу;",
+  "aboutAdv4": "быстрое и качественное оформление документов;",
+  "aboutAdv5": "высокий уровень сервиса и индивидуальный подход;",
+  "aboutAdv6": "выгодное приобретение автомобиля по программам Trade-in и утилизация;",
+  "aboutAdv7": "сотрудничество с самыми крупными банками Москвы, предлагающими наиболее выгодные условия кредитования;",
+  "aboutAdv8": "возможность участия в программах льготного кредитования «Семейный автомобиль», и «Первый автомобиль», а также льготное условия для медицинских работников и тех, кто сдает свой автомобиль по программе Trade-in в счёт оплаты первоначального взноса;",
+  "aboutAdv9": "акции и подарки от автосалона при покупке автомобиля.",
+  "aboutFooter1": "Все вопросы о наличии, цветах и комплектациях автомобилей, а также по работе автосалона Вы всегда можете узнать по телефону, указанному на сайте, а также при помощи формы обратной связи.",
+  "aboutFooter2": "Мы ценим каждого клиента и гарантируем высокий уровень сервиса!",
+  "aboutSlogan": "Азимут Варшавка — с нами Вам покорятся все направления!",
+  "photo": "Фото автосалона",
+
+  "statsCitiesCount": "12",
+  "statsCitiesLabel": "Городов присутствия",
+  "statsEmployeesCount": "1000",
+  "statsEmployeesLabel": "работников",
+  "statsYearsCount": "20 лет",
+  "statsYearsLabel": "на рынке",
+  "partner": "Наши партеры",
+
+  
+  "techTitle": "Техцентр",
+  "techMainDesc": "Специалисты нашего автосервиса имеют огромный опыт в обслуживании автомобилей разных производителей, новых и с пробегом, поэтому в короткие сроки способны обнаружить и исправить любую поломку. Все работы проводятся в соответствии с рекомендациями производителей.",
+  "techBodyRepairTitle": "Кузовной ремонт",
+  "techBodyRepairDesc": "Современное оборудование позволяет осуществлять кузовной ремонт любой сложности. Работаем только с качественными материалами от проверенных поставщиков.",
+  "techLocksmithRepairTitle": "Слесарный ремонт",
+  "techLocksmithRepairDesc": "Выполняем как текущий, так и капитальный слесарный ремонт, в том числе обслуживание силовой установки.",
+  "techTireServiceTitle": "Шиномонтаж",
+  "techTireServiceDesc": "Своевременная замена резины необходима для безаварийной езды. Ориентируемся на пробег, состояние резины и время года.",
+  "techDiagnosticsTitle": "Диагностика",
+  "techDiagnosticsDesc": "Качественная диагностика позволяет выявить не только имеющиеся проблемы, но и предупредить возможные, поэтому процедура проводится в плановом порядке.",
+  "techOilChangeTitle": "Замена масла",
+  "techOilChangeDesc": "Это необходимая процедура, значительно увеличивающая ресурс двигателя, а также позволяющая минимизировать негативные последствия использования некачественного топлива.",
+  "techMaintenanceTitle": "Техническое обслуживание",
+  "techMaintenanceDesc": "Это обеспечивает бесперебойную работу основных узлов и агрегатов ТС.",
+  "techAlignmentTitle": "Сход-развал",
+  "techAlignmentDesc": "Процедура обеспечивает устойчивость автомобиля на дороге. Проводится планово или в связи с нарушениями управляемости.",
+  "techPartsSelectionTitle": "Подбор запчастей",
+  "techPartsSelectionDesc": "Надёжность автомобиля напрямую зависит от качества запчастей. Услуга позволяет подобрать качественную деталь, подходящую к конкретному автомобилю.",
+  "techInsuranceRenewalTitle": "Продление страховых полисов",
+  "techInsuranceRenewalDesc": "Мы подберём честную компанию, предлагающую страховку по адекватным ценам. Это позволит избежать попадания в мошеннические схемы.",
+
+  "reviewsTitle": "Отзывы",
+  "reviewAuthor": "Сергей Васильев",
+  "reviewText": "«Я нахожусь в салоне ALTERA, всем советую, хороший коллектив, добрые люди, приветствуют, это не обман, вам гарантия 100 % точно, чисто от меня, приезжайте! Мы приехали приобрести автомобиль в салон ALTERA...»",
+  "reviewMore": "Подробнее",
+  "reviewLess": "Свернуть",
+  "btnLoadMore": "ПОКАЗАТЬ ЕЩЕ",
+
+  "contactsTitle": "Контакты",
+  "contactsPhoneTitle": "Телефон",
+  "contactsAddressTitle": "Адрес",
+  "contactsAddressText": "Россия, Москва, 38КМ МКАД, 6Бс1",
+  "contactsGpsText": "GPS: 55.597068, 37.511805",
+  "contactsRouteTitle": "Как проехать",
+  "contactsRouteInner": "от МКАД (внутренняя сторона)",
+  "contactsRouteOuter": "от МКАД (внешняя сторона)",
+  "contactsRouteCenter": "из области, из центра",
+
+  "aboutShortTitle": "О компании",
+  "aboutShortDesc": "Мы располагаем огромной торговой площадкой более 5000 квадратных метров, у нас в наличии не менее 200 автомобилей как отечественного, так и иностранного производства. В штате автосалона «Альтера» работают настоящие профессионалы, которые знают особенности каждого конкретного автомобиля.",
+  "heroBadge": "Осталось всего 10 авто!",
+  "heroTitle": "Грандиозная распродажа тестового парка!",
+  "heroSubtitle": "Узнай свою цену!",
+
+  "collectionsTitle": "Наши подборки",
+  "collectionsAllBtn": "Все подборки",
+  "collectionsBtnView": "Посмотреть",
+  "collectionFamilyTitle": "Семейные автомобили",
+  "collectionTravelTitle": "Автомобили для путешествий",
+  "collectionCityTitle": "Городские автомобили",
+
+  "promoTitle": "ПЕРЕБЬЕМ ПРЕДЛОЖЕНИЯ ОТ КОНКУРЕНТОВ!",
+  "promoSubStart": "Скидки ",
+  "promoSubHighlight": "от 10 до 25%",
+  "promoSubEnd": " на стоимость автомобиля",
+  "promoPhonePlaceholder": "Ваш телефон",
+  "promoBtnSubmit": "ПОЛУЧИТЬ ПРЕДЛОЖЕНИЕ",
+  "promoConsentText": "Нажимая кнопку \"Отправить\" Вы даете согласие на обработку своих",
+  "promoConsentLink": "персональных данных",
+
+  "offersTitle": "Спецпредложения",
+  "offersBtnMore": "Узнать больше",
+  "offerFirstCarTitle": "Первый автомобиль",
+  "offerFirstCarSub": "1,9% по льготной ставке",
+  "offerFamilyTitle": "Семейный автомобиль",
+  "offerFamilySub": "1,9% по льготной ставке",
+  "offerExpressTitle": "Экспресс-кредит",
+  "offerExpressSub": "1,9% по льготной ставке",
+
+  "creditTitle": "Заявка на автокредит",
+  "creditBrand": "Марка",
+  "creditModel": "Модель",
+  "creditComplectation": "Комплектация",
+  "creditSumLabel": "Сумма кредита, руб",
+  "creditTermLabel": "Срок кредита, мес.",
+  "creditInitialFeeLabel": "Первоначальный взнос, руб",
+  "creditInitialFee": "Первоначальный взнос",
+  "creditRemaining": "Остаток по кредиту",
+  "creditBenefitTitle": "Получить выгоду",
+  "creditBenefitAmount": "300 000 ₽",
+  "creditNamePlaceholder": "Ваше имя",
+  "creditPhonePlaceholder": "Ваш телефон",
+  "creditBtnSubmit": "ПОЛУЧИТЬ ПРЕДЛОЖЕНИЕ",
+  "creditConsentText": "Нажимая кнопку \"Получить скидку\" Вы даете согласие на обработку своих",
+  "creditConsentLink": "персональных данных",
+  "partnerBanksTitle": "Банки-партнеры",
+
+  "trustTitle": "Нам доверяют",
+  "reviewSite": "Сайт отзовик",
+  "dealershipName": "Название автосалона",
+  "recommend": "Рекомендуют 90%",
+  "aboutTitlee": "О компании",
+  "aboutDescription": "Мы располагаем огромной торговой площадкой более 5000 квадратных метров, у нас в наличии не менее 200 автомобилей как отечественного, так и иностранного производства. В штате автосалона «Альтера» работают настоящие профессионалы, которые знают особенности каждого конкретного автомобиля.",
+
+  "blogTitle": "Блог",
+  "blogAllBtn": "Все статьи",
+  "blogDate": "25 октября",
+  "blogArticleTitle": "Тест Skoda Karoq Scout - городской карлик или настоящий скаут",
+  "aboutDealerTitle": "Об автосалоне ABC",
+  "aboutDealerTabs": {
+    "dealership": "Автосалон",
+    "tradeIn": "Трейд-ин",
+    "purchase": "Покупка"
+  },
+  "aboutDealerText": {
+    "dealership": "Мы располагаем огромной торговой площадкой более 5000 квадратных метров, у нас в наличии не менее 200 автомобилей как отечественного, так и иностранного производства. В штате работают настоящие профессионалы.",
+    "tradeIn": "Быстрый и выгодный обмен вашего старого автомобиля на новый с минимальной доплатой. Оценка авто занимает не более 30 минут, прозрачные условия и юридическая чистота.",
+    "purchase": "Удобные программы покупки: наличными, в рассрочку или по выгодным процентным ставкам кредитования. Помощь в оформлении всех документов на месте."
+  },
+
+  "breadcrumbs": {
+    "home": "Главная",
+    "catalog": "Каталог авто",
+    "brand": "Toyota"
+  },
+  "heroTitlee": "Грандиозная распродажа Toyota",
+  "heroDiscount": "Скидки до",
+  "heroDiscountAmount": "350 000 ₽",
+  "heroSubtitlee": "Получите специальную цену + подарок на выбор при покупке авто",
+  "heroFeatures": {
+    "bestPrice": "Гарантия лучшей цены",
+    "credit": "Выгодный кредит",
+    "tradeIn": "Зачёт вашего авто в trade-in",
+    "gift": "Подарок на выбор при покупке авто"
+  },
+  "heroForm": {
+    "title": "Получите специальную цену",
+    "badge": "Только до 10.10.21",
+    "namePlaceholder": "Ваше имя",
+    "phonePlaceholder": "Ваш телефон",
+    "submitBtn": "ПОЛУЧИТЬ ПРЕДЛОЖЕНИЕ",
+    "disclaimer": "Нажимая кнопку \"Получить скидку\" Вы даете согласие на обработку своих персональных данных"
+  },
+
+  "archivedModels": {
+    "title": "Архивные модели",
+    "benefit": "Выгода до 300 000 ₽",
+    "fromPrice": "от 980 000 ₽",
+    "oldPrice": "1 280 000 ₽",
+    "discounts": {
+      "tradeIn": "Покупка в трейд-ин",
+      "credit": "Кредит",
+      "sale": "Распродажа"
+    },
+    "gifts": {
+      "insurance": "Страхование",
+      "casco": "КАСКО",
+      "tires": "Комплект резины",
+      "badge": "в подарок"
+    },
+    "buttons": {
+      "details": "Подробнее",
+      "book": "Забронировать"
+    }
+  },
+
+  "tradeIn": {
+    "title": "ВЫГОДНЫЙ TRADE-IN",
+    "from": "ОТ",
+    "subRate": "По льготной ставке",
+    "subtitle": "Обменяйте свой автомобиль на новый с максимальной скидкой",
+    "phonePlaceholder": "Ваш телефон",
+    "button": "ПОЛУЧИТЬ ПРЕДЛОЖЕНИЕ",
+    "disclaimerText": "Нажимая кнопку \"Получить предложение\" Вы даете согласие на обработку своих",
+    "disclaimerLink": "персональных данных"
+  },
+
+  "advantages": {
+    "mainTitle": "Преимущества Toyota",
+    "items": {
+      "1": {
+        "title": "Автомобиль для любых задач",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur commodo mauris odio, at mattis lacus ullamcorper sit amet."
+      },
+      "2": {
+        "title": "Единый корпоративный стиль",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur commodo mauris odio, at mattis lacus ullamcorper sit amet."
+      },
+      "3": {
+        "title": "Современные технологичные решения",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur commodo mauris odio, at mattis lacus ullamcorper sit amet."
+      },
+      "4": {
+        "title": "Надежные запчасти от производителя",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur commodo mauris odio, at mattis lacus ullamcorper sit amet."
+      },
+      "5": {
+        "title": "Заслуживает доверия",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur commodo mauris odio, at mattis lacus ullamcorper sit amet."
+      },
+      "6": {
+        "title": "Качество, проверенное временем",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur commodo mauris odio, at mattis lacus ullamcorper sit amet."
+      }
+    }
+  },
+
+  "carHero": {
+    "breadcrumb": {
+      "home": "Главная",
+      "catalog": "Каталог авто"
+    },
+    "colorLabel": "Цвет",
+    "fromPrice": "от 700 000 ₽",
+    "benefitBadge": "Выгода до 100 000₽",
+    "features": {
+      "bestOffer": "Улучшим любое предложение",
+      "noDeposit": "Без первоначального взноса",
+      "creditRate": "Кредит от 1,9%"
+    },
+    "form": {
+      "title": "Получите специальную цену",
+      "deadline": "Только до 10.10.21",
+      "namePlaceholder": "Ваше имя",
+      "phonePlaceholder": "Ваш телефон",
+      "button": "ПОЛУЧИТЬ ПРЕДЛОЖЕНИЕ",
+      "disclaimerText": "Нажимая кнопку \"Получить скидку\" Вы даете согласие на обработку своих",
+      "disclaimerLink": "персональных данных"
+    }
+  },
+
+  "discounts": {
+    "more": "Подробнее",
+    "special": {
+      "title": "Специальное предложение",
+      "sub": "от представительства"
+    },
+    "cash": {
+      "title": "Скидка за наличные",
+      "sub": "от ABC Auto"
+    },
+    "tradeIn": {
+      "title": "Выгода за Trade-in",
+      "sub": "от ABC Auto"
+    },
+    "recycling": {
+      "title": "Выгода за утилизацию",
+      "sub": "от ABC Auto"
+    },
+    "credit": {
+      "title": "Скидка при оформлении",
+      "sub": "Авто в кредит 1,9%"
+    },
+    "govProgram": {
+      "title": "Госпрограмма",
+      "sub": "Семейный автомобиль, Первый автомобиль, Работникам медицины, Госпрограмма Trade-in",
+      "calcText": "от цены авто"
+    },
+    "summary": {
+      "maxLabel": "Максимальная скидка",
+      "yourDiscount": "Ваша скидка",
+      "upTo": "до",
+      "button": "ЗАФИКСИРОВАТЬ УСЛОВИЯ"
+    }
+  },
+
+  "offerBanner": {
+    "badge": "Акция до 20.02.2021",
+    "title": "Станьте владельцем Toyota Camry уже сегодня",
+    "subtitle": "ВАШЕ ПЕРСОНАЛЬНОЕ ПРЕДЛОЖЕНИЕ",
+    "namePlaceholder": "Ваше имя",
+    "phonePlaceholder": "Ваш телефон",
+    "button": "ПОЛУЧИТЬ ПРЕДЛОЖЕНИЕ",
+    "disclaimerText1": "Нажимая кнопку \"Получить предложение\", Вы соглашаетесь с",
+    "disclaimerLink1": "политикой конфиденциальности",
+    "disclaimerText2": "и",
+    "disclaimerLink2": "правилами обработки персональных данных"
+  },
+
+  "gallery": {
+    "exterior": "Экстерьер",
+    "interior": "Интерьер",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pulvinar auctor tellus, id volutpat dui dictum vitae. Sed ac mauris nisi. Maecenas quis sollicitudin dolor, eget molestie dolor. Vivamus sed magna euismod, iaculis eros vitae, vehicula justo. Ut id consequat risus, vitae accumsan ligula. Proin egestas odio sit amet laoreet vulputate. Suspendisse vitae vestibulum quam. Vivamus lectus justo, bibendum at laoreet vel, rhoncus nec sem. Phasellus at mollis magna, in bibendum massa. Praesent malesuada sit amet nibh ut vestibulum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla iaculis a orci sit amet iaculis. Nulla in magna posuere nunc pharetra faucibus. Phasellus id enim libero."
+  },
+
+  "familyCar": {
+    "breadcrumb": {
+      "home": "Главная",
+      "credit": "Кредит и рассрочка",
+      "current": "Семейный автомобиль"
+    },
+    "title": "Семейный автомобиль",
+    "description": "Программа \"Семейный автомобиль\" рассчитана на покупателей с одним и более несовершеннолетними детьми в семье",
+    "rateValue": "от 1,9%",
+    "rateLabel": "По льготной ставке",
+    "discountLabel": "От стоимости автомобиля",
+    "form": {
+      "title": "Получите специальную цену",
+      "deadline": "Только до 10.10.21",
+      "namePlaceholder": "Ваше имя",
+      "phonePlaceholder": "Ваш телефон",
+      "button": "ПОЛУЧИТЬ ПРЕДЛОЖЕНИЕ",
+      "disclaimerText": "Нажимая кнопку \"Получить скидку\" Вы даете согласие на обработку своих",
+      "disclaimerLink": "персональных данных"
+    }
+  },
+
+  "calc": {
+    "advantages": {
+      "title": "Преимущества программы",
+      "downPaymentVal": "от 0%",
+      "downPaymentLabel": "Первоначальный взнос",
+      "responseTimeVal": "30 минут",
+      "responseTimeLabel": "Ответ кредитных специалистов",
+      "rateVal": "от 1,9%",
+      "rateLabel": "Ставка по кредиту",
+      "approvalVal": "98%",
+      "approvalLabel": "Одобрение кредита"
+    },
+    "step1": {
+      "title": "Ваш будущий автомобиль",
+      "brand": "Марка",
+      "model": "Модель",
+      "equipment": "Комплектация",
+      "hint": "Выберите марку и модель автомобиля"
+    },
+    "step2": {
+      "title": "Купить в кредит",
+      "discount10": "Скидка от руководителя -10% от цены авто",
+      "discount30k": "Акция \"Выгодный кредит\" Скидка 30 000 ₽",
+      "termLabel": "Срок кредита, месяцев",
+      "termValue": "36 мес.",
+      "downPaymentPlaceholder": "Первоначальный взнос",
+      "selectBank": "Выберите банк"
+    },
+    "tradeIn": {
+      "title": "Программа Trade-in",
+      "addBtn": "ДОБАВИТЬ"
+    },
+    "step3": {
+      "title": "Персональные данные",
+      "namePlaceholder": "Ваше имя",
+      "phonePlaceholder": "Номер телефона",
+      "selectGift": "Выберите подарок",
+      "submitBtn": "ПОЛУЧИТЬ ЛУЧШИЕ УСЛОВИЯ",
+      "disclaimerText": "Нажимая кнопку \"Получить лучшие условия\" Вы даете согласие на обработку своих",
+      "disclaimerLink": "персональных данных"
+    }
+  },
+
+  "creditAdvantages": {
+    "title": "Преимущества автокредита",
+    "cards": {
+      "programs": "40 кредитных программ на выбор",
+      "term": "Срок кредитования до 7 лет",
+      "amount": "Размер кредита до 3 000 000 ₽",
+      "earlyRepayment": "Досрочное погашение без штрафа",
+      "downPaymentTitle": "0%",
+      "downPaymentDesc": "Первоначальный взнос от 0%",
+      "rateTitle": "1,9%",
+      "rateDesc": "Ставка по кредиту от 1,9%",
+      "approvalRate": "Процент одобрения кредита 98%",
+      "responseTime": "Ответ кредитных специалистов в течение 30 минут"
+    },
+    "conditions": {
+      "title": "Условия покупки",
+      "list": {
+        "downPayment": "Взнос 0 ₽",
+        "term": "Срок кредита до 7 лет",
+        "firstCar": "Госпрограмма первое авто",
+        "familyCar": "Семейный автомобиль",
+        "medical": "Автокредит для медицинских работников",
+        "discount60k": "Скидка 60 000 на покупку нового авто",
+        "tradeInDiscount": "10% скидки по Trade-in на покупку нового авто",
+        "partners": "Более 30 банков партнеров"
+      }
+    },
+    "documents": {
+      "title": "Необходимые документы",
+      "passport": "Паспорт",
+      "driverLicense": "Водительское удостоверение"
+    }
+  },
+
+  "discountBanner": {
+    "title": "Получите скидку на покупку нового авто!",
+    "subtitle": "Помогаем молодым семьям не только встать на ноги, но и сесть за руль! Если вы — будущие клиенты, государство оплатит 10% от общей суммы кредита на покупку нового автомобиля (для Дальнего Востока — 25%).",
+    "sections": {
+      "conditions": "Основные условия программ",
+      "requirements": "Общие требования для участия"
+    },
+    "items": {
+      "subsidy10": "10% размер субсидии от стоимости автомобиля без дополнительного оборудования"
+    }
+  },
+
+  "expressCredit": {
+    "breadcrumbs": {
+      "home": "Главная",
+      "credit": "Кредит и рассрочка",
+      "express": "Экспресс-кредит"
+    },
+    "title": "Экспресс-кредит",
+    "subtitle": "Воплотите мечту о новом автомобиле уже сегодня с выгодным предложением. Заполните заявку, чтобы получить уникальное предложение.",
+    "badge": {
+      "rate": "от 1,9%",
+      "label": "По льготной\nставке"
+    },
+    "advantages": {
+      "travel": "Компенсируем дорогу до автосалона всем покупателям",
+      "insurance": "БЫСТРОЕ оформление КАСКО и ОСАГО за 15 минут",
+      "discount": "Скидка\n30 000 рублей"
+    },
+    "form": {
+      "title": "Получите специальную цену",
+      "until": "Только до 10.10.21",
+      "namePlaceholder": "Ваше имя",
+      "phonePlaceholder": "Ваш телефон",
+      "submitBtn": "ПОЛУЧИТЬ ПРЕДЛОЖЕНИЕ",
+      "disclaimerText": "Нажимая кнопку \"Получить скидку\" Вы даете согласие на обработку своих",
+      "disclaimerLink": "персональных данных"
+    }
+  },
+
+  "creditTerms": {
+    "title": "Условия получения кредита",
+    "items": {
+      "noIncome": {
+        "title": "Без подтверждения дохода",
+        "desc": "Чтобы получить кредит, вам нужны паспорт и водительское удостоверение. Банк не требует подтверждение дохода, информацию о продавце и оформление КАСКО."
+      },
+      "noDownPayment": {
+        "title": "Без первоначального взноса",
+        "desc": "Кредит выдаётся без первоначального взноса на карту, с которой без процентов можно снять наличные. Банк доставит карту бесплатно."
+      },
+      "noRegistration": {
+        "title": "Без сложностей с регистрацией",
+        "desc": "Для регистрации автомобиля после покупки нужны только копии договора купли-продажи и паспорта транспортного средства. Да, это всё."
+      }
+    }
+  },
+
+  "firstCar": {
+    "breadcrumbs": {
+      "home": "Главная",
+      "credit": "Кредит и рассрочка",
+      "program": "Первый автомобиль"
+    },
+    "title": "Первый автомобиль",
+    "subtitle": "Стать участником программы «Первый автомобиль» может любой клиент без ограничений по возрасту, основное условие - покупка автомобиля впервые.",
+    "badges": {
+      "rate": "от 1,9%",
+      "rateText": "Ставки ниже\nеще не было",
+      "discount": "-10%",
+      "discountText": "От стоимости\nавтомобиля"
+    },
+    "form": {
+      "title": "Получите специальную цену",
+      "until": "Только до 10.10.21",
+      "namePlaceholder": "Ваше имя",
+      "phonePlaceholder": "Ваш телефон",
+      "submitBtn": "ПОЛУЧИТЬ ПРЕДЛОЖЕНИЕ",
+      "disclaimerText": "Нажимая кнопку \"Получить скидку\" Вы даете согласие на обработку своих",
+      "disclaimerLink": "персональных данных"
+    }
+  },
+
+  "tradeInn": {
+    "breadcrumbs": {
+      "home": "Главная",
+      "credit": "Кредит и рассрочка",
+      "program": "Госпрограмма Trade-in"
+    },
+    "title": "Госпрограмма Trade-in",
+    "subtitle": "Обменяйте свой автомобиль\nна новый с максимальной скидкой",
+    "badge": {
+      "rate": "от 1,9%",
+      "rateLabel": "По льготной\nставке",
+      "discount": "-10%",
+      "discountLabel": "От стоимости\nавтомобиля"
+    },
+    "advantages": {
+      "equipment": "Установка любого дополнительного оборудования",
+      "gift": "Каждому покупателю ТО 0 и ТО-1 в подарок!",
+      "bonusCard": "Бонусная карта на сервисное обслуживание"
+    },
+    "form": {
+      "title": "Получите специальную цену",
+      "until": "Только до 10.10.21",
+      "namePlaceholder": "Ваше имя",
+      "phonePlaceholder": "Ваш телефон",
+      "submitBtn": "ПОЛУЧИТЬ ПРЕДЛОЖЕНИЕ",
+      "disclaimerText": "Нажимая кнопку \"Получить скидку\" Вы даете согласие на обработку своих",
+      "disclaimerLink": "персональных данных"
+    }
+  },
+
+  "medical": {
+    "breadcrumbs": {
+      "home": "Главная",
+      "credit": "Кредит и рассрочка",
+      "program": "Работникам медицины"
+    },
+    "title": "Работникам медицины",
+    "subtitle": "Компенсация от 10% до 25%",
+    "badges": {
+      "rate": "от 1,9%",
+      "rateText": "Без первоначального\nвзноса",
+      "discount": "-10%",
+      "discountText": "От стоимости\nавтомобиля"
+    },
+    "form": {
+      "title": "Получите специальную цену",
+      "until": "Только до 10.10.21",
+      "namePlaceholder": "Ваше имя",
+      "phonePlaceholder": "Ваш телефон",
+      "submitBtn": "ПОЛУЧИТЬ ПРЕДЛОЖЕНИЕ",
+      "disclaimerText": "Нажимая кнопку \"Получить скидку\" Вы даете согласие на обработку своих",
+      "disclaimerLink": "персональных данных"
+    }
+  },
+
+  "installment": {
+    "breadcrumbs": {
+      "home": "Главная",
+      "credit": "Кредит и рассрочка",
+      "program": "Рассрочка"
+    },
+    "title": "Рассрочка",
+    "subtitle": "Воплотите мечту о новом автомобиле уже сегодня\nс выгодным предложением. Заполните заявку, чтобы получить\nуникальное предложение.",
+    "badge": {
+      "rate": "0%",
+      "rateLabel": "Переплата\nза автомобиль"
+    },
+    "form": {
+      "title": "Получите специальную цену",
+      "until": "Только до 10.10.21",
+      "namePlaceholder": "Ваше имя",
+      "phonePlaceholder": "Ваш телефон",
+      "submitBtn": "ПОЛУЧИТЬ ПРЕДЛОЖЕНИЕ",
+      "disclaimerText": "Нажимая кнопку \"Получить скидку\" Вы даете согласие на обработку своих",
+      "disclaimerLink": "персональных данных"
+    }
+  },
+
+  "recycling": {
+    "breadcrumbs": {
+      "home": "Главная",
+      "specialOffers": "Спецпредложения",
+      "program": "Утилизация"
+    },
+    "title": "Утилизация авто",
+    "subtitle": "Стать участником программы «Утилизации авто» может любой клиент без\nограничений по возрасту, основное условие - покупка автомобиля впервые.",
+    "badge": {
+      "rate": "от 1,9%",
+      "rateLabel": "По льготной\nставке"
+    },
+    "form": {
+      "title": "Получите специальную цену",
+      "until": "Только до 10.10.21",
+      "namePlaceholder": "Ваше имя",
+      "phonePlaceholder": "Ваш телефон",
+      "submitBtn": "ПОЛУЧИТЬ ПРЕДЛОЖЕНИЕ",
+      "disclaimerText": "Нажимая кнопку \"Получить скидку\" Вы даете согласие на обработку своих",
+      "disclaimerLink": "персональных данных"
+    }
+  },
+
+  "notFound": {
+    "nav": {
+      "catalog": "КАТАЛОГ АВТО",
+      "tradeIn": "TRADE-IN",
+      "expressCredit": "ЭКСПРЕСС КРЕДИТ",
+      "contacts": "КОНТАКТЫ"
+    },
+    "title": "Страница не найдена!",
+    "description": "«Мы запустили новый сайт, сделав его удобным и информативным.\nВозможно, запрашиваемая Вами страница была перенесена или удалена.\nВы можете позвонить нам и получить квалифицированную помощь наших специалистов»",
+    "homeBtn": "НА ГЛАВНУЮ"
+  },
+
+  "carDetails": {
+    "promo": {
+      "vtbTitle": "Рассрочка от ВТБ",
+      "vtbSub": "Рассрочка 0%",
+      "vtbBtn": "Рассрочка",
+      "tradeInTitle": "Выгода по Trade-in",
+      "tradeInSub": "Дополнительная выгода\nдо 200 000 руб",
+      "tradeInBtn": "Trade-in",
+      "creditTitle": "Первоначальный\nвзнос 0%",
+      "creditSub": "Кредит 1,9%",
+      "creditBtn": "Скидка"
+    },
+    "calculator": {
+      "downPayment": "Первоначальный взнос",
+      "term": "Срок кредита",
+      "termUnit": "мес.",
+      "monthlyPayment": "Ежемесячный платеж *",
+      "note": "* Предварительный расчет",
+      "submitBtn": "ПОДАТЬ ЗАЯВКУ НА КРЕДИТ"
+    },
+    "description": {
+      "title": "Описание Toyota Camry 2013 2.0 AT Стандарт",
+      "p1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et lorem elit. Nam nisi nulla, fringilla vel pharetra ac, luctus in est. Pellentesque faucibus interdum arcu, non molestie leo malesuada in. Donec quam turpis, hendrerit nec ante id, tincidunt convallis sapien. In molestie dignissim elit non mollis. Donec at dapibus nisl, sed aliquam ipsum. Mauris mi libero, congue ut feugiat sit amet, cursus eget orci. Aenean vel fermentum dui. Aenean dictum diam in augue porttitor luctus.",
+      "p2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et lorem elit. Nam nisi nulla, fringilla vel pharetra ac, luctus in est. Pellentesque faucibus interdum arcu, non molestie leo malesuada in. Donec quam turpis, hendrerit nec ante id, tincidunt convallis sapien. In molestie dignissim elit non mollis."
+    },
+    "specs": {
+      "title": "Комплектация Toyota Camry 2013 2.0 AT Стандарт",
+      "maxPower": "Максимальная мощность\nдвигателя(кВт) при об./мин.",
+      "maxPowerVal": "110 л.с.",
+      "transmission": "Тип трансмиссии",
+      "transmissionVal": "МКПП",
+      "driveType": "Тип привода",
+      "driveTypeVal": "Передний",
+      "engineVolume": "Объем двигателя, куб.см",
+      "engineVolumeVal": "100",
+      "showMoreBtn": "ПОКАЗАТЬ ЕЩЕ"
+    }
+  },
+
+  "tradeInBanner": {
+    "title": "Выгодный Trade-in",
+    "subtitle": "Оценим вашу машину за 10 минут",
+    "form": {
+      "selectBrand": "Марка",
+      "selectModel": "Модель",
+      "selectYear": "Год выпуска",
+      "selectBody": "Тип кузова",
+      "phonePlaceholder": "Ваш телефон",
+      "submitBtn": "ОБРАТНЫЙ ЗВОНОК",
+      "disclaimerText": "Нажимая кнопку «Получить предложение», Вы соглашаетесь с",
+      "disclaimerPrivacy": "политикой конфиденциальности",
+      "disclaimerAnd": "и",
+      "disclaimerTerms": "правилами обработки персональных данных"
+    }
+  },
+
+  "breadcrumb_home": "Главная",
+  "breadcrumb_taxi": "Такси в кредит",
+  "title_line1": "Специальное предложение",
+  "title_line2": "на покупку авто под такси",
+  "feature_loan": "Льготный автокредит от 1,9%",
+  "feature_wrap": "Оклейка авто в подарок",
+  "feature_date": "Акция действует до 13 сентября!",
+  "feature_deposit": "Первоначальный взнос 0%",
+  "form_title": "Получите специальную цену",
+  "form_badge": "Только до 10.10.21",
+  "input_name": "Ваше имя",
+  "input_phone": "Ваш телефон",
+  "btn_submit": "ПОЛУЧИТЬ ПРЕДЛОЖЕНИЕ",
+  "policy_text": "Нажимая кнопку \"Получить скидку\" Вы даете согласие на обработку своих",
+  "policy_link": "персональных данных",
+
+  "taxi_cars": {
+    "section_title": "Автомобили для такси в наличии",
+    "class_label": "Выберите класс автомобиля",
+    "class_economy": "ЭКОНОМ",
+    "class_comfort": "КОМФОРТ",
+    "class_comfort_plus": "КОМФОРТ +",
+    "select_brand": "Марка",
+    "select_model": "Модель",
+    "badge_economy": "ЭКОНОМ",
+    "old_price_from": "от 220 ₽",
+    "price_per_day": "от 82 ₽/день",
+    "feature_gbo": "Установка ГБО для экономии прибыли",
+    "feature_wrap": "Оклейка и брендирование такси",
+    "feature_tires": "Комплект резины в подарок",
+    "feature_credit": "Рассрочка 0%",
+    "btn_more": "ПОДРОБНЕЕ",
+    "btn_request": "ОСТАВИТЬ ЗАЯВКУ"
+  },
+
+  "incomeBanner": {
+    "title": "Сколько можно\nзаработать на такси?",
+    "headings": {
+      "ownTaxi": "Свое такси",
+      "rentTaxi": "Аренда такси",
+      "advantages": "ПРЕИМУЩЕСТВА",
+      "disadvantages": "НЕДОСТАТКИ"
+    },
+    "advantages": {
+      "ptc": "Авто в личной собственности по ПТС",
+      "credit": "Платеж по кредиту от 90 руб. в день",
+      "installment": "Рассрочка 0% без первоначального взноса",
+      "gbo": "Бесплатная установка ГБО для экономии топлива",
+      "gost": "Оклейка автомобиля по ГОСТу",
+      "documents": "Быстрое оформление всех документов под ключ"
+    },
+    "disadvantages": {
+      "autopark": "Авто в собственности автопарка",
+      "rent": "Платеж за арендованное такси от 1200 руб. в день",
+      "commissions": "Риск скрытых комиссий и переплат",
+      "equipment": "Нельзя установить доп. оборудование",
+      "gostMismatch": "Возможно несоответствие нормам ГОСТ",
+      "longDocuments": "Долгое оформление документов"
+    }
+  },
+
+  "creditCalculator": {
+    "title": "Кредитный калькулятор",
+    "step1": {
+      "title": "Выберите класс авто",
+      "placeholder": "Старт"
+    },
+    "step2": {
+      "title": "Ваш будущий автомобиль",
+      "brandPlaceholder": "Выберите марку",
+      "modelPlaceholder": "Выберите модель",
+      "carName": "Lada Granta Liftback New\n1.6 MT Comfort",
+      "oldPrice": "от 221 100 ₽",
+      "dailyPrice": "от 82 ₽/день"
+    },
+    "step3": {
+      "title": "Срок кредита, мес.",
+      "placeholder": "7 лет"
+    },
+    "step4": {
+      "title": "Персональные данные",
+      "namePlaceholder": "Ваше имя",
+      "phonePlaceholder": "Ваш телефон",
+      "submitBtn": "ОСТАВИТЬ ЗАЯВКУ",
+      "disclaimerText": "Нажимая кнопку Оставить заявку\" Вы даете согласие на обработку своих",
+      "disclaimerLink": "персональных данных"
+    }
+  }
+
+
+}

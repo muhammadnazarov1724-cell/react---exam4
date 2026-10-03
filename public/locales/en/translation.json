@@ -1,0 +1,785 @@
+{
+    "podbor": "Car Selection",
+    "company": "Copmany",
+    "tech" : "Technical",
+    "otziv": "Reviews",
+    "contact": "Contact",
+    "headerBtn": "Request a callback",
+    "navCatalog": "CAR CATALOG",
+    "navUsedCars": "USED CARS",
+    "navCredit": "CREDIT & INSTALLMENTS",
+    "utilizia": "CAR RECYCLING",
+    "navTaxiCredit": "TAXI ON CREDIT",
+
+  "footerNavCatalog": "CAR CATALOG",
+  "footerNavUsed": "USED CARS",
+  "footerNavCredit": "CREDIT & INSTALLMENTS",
+  "footerNavOffers": "SPECIAL OFFERS",
+  "footerNavTaxi": "TAXI ON CREDIT",
+  "footerCatalogTitle": "CAR CATALOG",
+  "footerMore": "Read more",
+  "footerSitemap": "Sitemap",
+  "footerCreditTitle": "CREDIT & INSTALLMENTS",
+  "footerExpressCredit": "Express Credit",
+  "footerFamilyCar": "Family Car",
+  "footerFirstCar": "First Car",
+  "footerMedicalWorkers": "For Medical Workers",
+  "footerInstallment": "Installments",
+  "footerTradeIn": "Trade-in",
+  "footerContactsTitle": "CONTACTS",
+  "footerSchedule": "Daily from 08:00 to 21:00",
+  "footerAddress": "Russia, Moscow, 38KM MKAD, 6Bs1",
+  "footerMapRoute": "Directions",
+  "footerCopyright": "© 2021 Dealership \"ABC AUTO\". Official Dealer",
+  "footerPrivacy": "Privacy Policy",
+  "footerTerms": "User Agreement",
+  "footerDisclaimer": "Please note that this website is for informational purposes only and under no circumstances constitutes a public offer defined by the provisions of Article 437 of the Civil Code of the Russian Federation.",
+  "cityMoscow": "Moscow",
+  "citySpb": "Saint Petersburg",
+
+  "aboutTitle": "About company",
+  "aboutMainDesc": "Official dealer Azimut Varshavka offers a wide selection of cars of various colors and trim levels on the most favorable terms. Over two hundred new and used cars are presented on the showroom territory. Among the assortment presented, you will find the most popular models of European, Asian, and Russian production. Complete personal consultation is provided for every client regarding any presented vehicle. You can learn more about models available from our managers or on our website.",
+  "aboutChooseText": "By choosing Azimut Varshavka dealership you get:",
+  "aboutAdv1": "the best prices on cars in Moscow;",
+  "aboutAdv2": "a choice of cars from over two hundred models of various colors and specifications;",
+  "aboutAdv3": "purchase of used cars that have undergone pre-sale preparation and legal verification;",
+  "aboutAdv4": "fast and high-quality document processing;",
+  "aboutAdv5": "high level of service and personalized approach;",
+  "aboutAdv6": "profitable car purchase through Trade-in and recycling programs;",
+  "aboutAdv7": "cooperation with the largest banks in Moscow offering the most favorable credit terms;",
+  "aboutAdv8": "opportunity to participate in subsidized loan programs 'Family Car' and 'First Car', as well as special conditions for medical workers and those trading in their car as a down payment;",
+  "aboutAdv9": "promotions and gifts from the dealership upon car purchase.",
+  "aboutFooter1": "All questions regarding availability, colors, and equipment, as well as dealership operation, can always be clarified by phone listed on the website or via the contact form.",
+  "aboutFooter2": "We value every client and guarantee a high level of service!",
+  "aboutSlogan": "Azimut Varshavka — conquer all directions with us!",
+  "photo": "Photo of the car dealership",
+
+  "statsCitiesCount": "12",
+  "statsCitiesLabel": "Cities of presence",
+  "statsEmployeesCount": "1000",
+  "statsEmployeesLabel": "employees",
+  "statsYearsCount": "20 years",
+  "statsYearsLabel": "in the market",
+  "partner": "Our Partner",
+
+  
+  "techTitle": "Technical Center",
+  "techMainDesc": "Our auto service specialists have extensive experience in servicing vehicles of various manufacturers, both new and used, and can quickly detect and fix any malfunction. All work is performed in accordance with manufacturer recommendations.",
+  "techBodyRepairTitle": "Body Repair",
+  "techBodyRepairDesc": "Modern equipment allows us to carry out body repairs of any complexity. We work only with high-quality materials from trusted suppliers.",
+  "techLocksmithRepairTitle": "Mechanical Repair",
+  "techLocksmithRepairDesc": "We perform both routine and major mechanical repairs, including power unit maintenance.",
+  "techTireServiceTitle": "Tire Service",
+  "techTireServiceDesc": "Timely tire replacement is essential for safe driving. We consider mileage, tire condition, and seasonality.",
+  "techDiagnosticsTitle": "Diagnostics",
+  "techDiagnosticsDesc": "High-quality diagnostics helps identify existing problems and prevent potential ones, which is why the procedure is carried out regularly.",
+  "techOilChangeTitle": "Oil Change",
+  "techOilChangeDesc": "This is a necessary procedure that significantly increases engine life and helps minimize the negative effects of low-quality fuel.",
+  "techMaintenanceTitle": "Technical Maintenance",
+  "techMaintenanceDesc": "This ensures uninterrupted operation of the main vehicle components and assemblies.",
+  "techAlignmentTitle": "Wheel Alignment",
+  "techAlignmentDesc": "The procedure ensures vehicle stability on the road. It is performed as planned or due to handling issues.",
+  "techPartsSelectionTitle": "Auto Parts Selection",
+  "techPartsSelectionDesc": "Car reliability directly depends on the quality of parts. This service allows selecting a high-quality part suitable for a specific vehicle.",
+  "techInsuranceRenewalTitle": "Insurance Policy Renewal",
+  "techInsuranceRenewalDesc": "We will select a reliable company offering insurance at fair prices, helping you avoid fraudulent schemes.",
+
+  "reviewsTitle": "Reviews",
+  "reviewAuthor": "Sergey Vasilyev",
+  "reviewText": "«I am at the ALTERA dealership, I recommend it to everyone, great team, kind people, welcoming, this is not a scam, 100% guarantee for sure, directly from me, come on over! We came to buy a car at the ALTERA showroom...»",
+  "reviewMore": "Read more",
+  "reviewLess": "Show less",
+  "btnLoadMore": "SHOW MORE",
+
+  "contactsTitle": "Contacts",
+  "contactsPhoneTitle": "Phone",
+  "contactsAddressTitle": "Address",
+  "contactsAddressText": "Russia, Moscow, 38KM MKAD, 6Bs1",
+  "contactsGpsText": "GPS: 55.597068, 37.511805",
+  "contactsRouteTitle": "How to get there",
+  "contactsRouteInner": "from MKAD (inner side)",
+  "contactsRouteOuter": "from MKAD (outer side)",
+  "contactsRouteCenter": "from region, from center",
+
+  "aboutShortTitle": "About company",
+  "aboutShortDesc": "We have a huge retail space of over 5000 square meters, with at least 200 domestic and foreign cars in stock. The staff of the 'Altera' dealership consists of true professionals who know the features of each specific car.",
+  "heroBadge": "Only 10 cars left!",
+  "heroTitle": "Grand test fleet clearance sale!",
+  "heroSubtitle": "Find out your price!",
+
+  "collectionsTitle": "Our Collections",
+  "collectionsAllBtn": "All collections",
+  "collectionsBtnView": "View",
+  "collectionFamilyTitle": "Family cars",
+  "collectionTravelTitle": "Cars for travel",
+  "collectionCityTitle": "City cars",
+
+  "promoTitle": "WE WILL BEAT COMPETITORS' OFFERS!",
+  "promoSubStart": "Discounts ",
+  "promoSubHighlight": "from 10 to 25%",
+  "promoSubEnd": " on car price",
+  "promoPhonePlaceholder": "Your phone number",
+  "promoBtnSubmit": "GET AN OFFER",
+  "promoConsentText": "By clicking \"Submit\" you consent to the processing of your",
+  "promoConsentLink": "personal data",
+
+  "offersTitle": "Special Offers",
+  "offersBtnMore": "Learn more",
+  "offerFirstCarTitle": "First car",
+  "offerFirstCarSub": "1.9% preferential rate",
+  "offerFamilyTitle": "Family car",
+  "offerFamilySub": "1.9% preferential rate",
+  "offerExpressTitle": "Express credit",
+  "offerExpressSub": "1.9% preferential rate",
+
+  "creditTitle": "Car Loan Application",
+  "creditBrand": "Make",
+  "creditModel": "Model",
+  "creditComplectation": "Trim",
+  "creditSumLabel": "Loan amount, RUB",
+  "creditTermLabel": "Loan term, months",
+  "creditInitialFeeLabel": "Down payment, RUB",
+  "creditInitialFee": "Down payment",
+  "creditRemaining": "Remaining loan balance",
+  "creditBenefitTitle": "Get a benefit",
+  "creditBenefitAmount": "300 000 ₽",
+  "creditNamePlaceholder": "Your name",
+  "creditPhonePlaceholder": "Your phone number",
+  "creditBtnSubmit": "GET AN OFFER",
+  "creditConsentText": "By clicking \"Get discount\" you consent to the processing of your",
+  "creditConsentLink": "personal data",
+  "partnerBanksTitle": "Partner Banks",
+
+  "trustTitle": "They Trust Us",
+  "reviewSite": "Review Website",
+  "dealershipName": "Dealership Name",
+  "recommend": "90% Recommend",
+  "aboutTitlee": "About the Company",
+  "aboutDescription": "We have a huge shopping area of more than 5000 square meters, with at least 200 domestic and foreign cars in stock. Altera dealership employs real professionals who know the features of each specific car.",
+
+  "blogTitle": "Blog",
+  "blogAllBtn": "All articles",
+  "blogDate": "October 25",
+  "blogArticleTitle": "Skoda Karoq Scout Test - a city dwarf or a real scout",
+  "aboutDealerTitle": "About ABC Dealership",
+  "aboutDealerTabs": {
+    "dealership": "Dealership",
+    "tradeIn": "Trade-in",
+    "purchase": "Purchase"
+  },
+  "aboutDealerText": {
+    "dealership": "We have a huge shopping area of more than 5000 square meters, with at least 200 domestic and foreign cars in stock. Real professionals work on our team.",
+    "tradeIn": "Fast and profitable exchange of your old car for a new one with a minimal surcharge. Vehicle valuation takes no more than 30 minutes with clear terms.",
+    "purchase": "Convenient purchasing programs: cash, installments, or favorable loan interest rates. Full document processing assistance on site."
+  },
+
+  "breadcrumbs": {
+    "home": "Home",
+    "catalog": "Car Catalog",
+    "brand": "Toyota"
+  },
+  "heroTitlee": "Grand Toyota Sale",
+  "heroDiscount": "Discounts up to",
+  "heroDiscountAmount": "$4,500",
+  "heroSubtitlee": "Get a special price + a gift of your choice when buying a car",
+  "heroFeatures": {
+    "bestPrice": "Best price guarantee",
+    "credit": "Favorable loan",
+    "tradeIn": "Trade-in value for your car",
+    "gift": "Gift of choice with car purchase"
+  },
+  "heroForm": {
+    "title": "Get a special price",
+    "badge": "Only until 10.10.21",
+    "namePlaceholder": "Your name",
+    "phonePlaceholder": "Your phone number",
+    "submitBtn": "GET AN OFFER",
+    "disclaimer": "By clicking \"Get offer\" you consent to the processing of your personal data"
+  },
+
+  "archivedModels": {
+    "title": "Archived Models",
+    "benefit": "Benefit up to 300,000 ₽",
+    "fromPrice": "from 980,000 ₽",
+    "oldPrice": "1,280,000 ₽",
+    "discounts": {
+      "tradeIn": "Trade-in purchase",
+      "credit": "Credit",
+      "sale": "Sale"
+    },
+    "gifts": {
+      "insurance": "Insurance",
+      "casco": "CASCO",
+      "tires": "Set of tires",
+      "badge": "as a gift"
+    },
+    "buttons": {
+      "details": "Details",
+      "book": "Book now"
+    }
+  },
+
+  "tradeIn": {
+    "title": "PROFITABLE TRADE-IN",
+    "from": "FROM",
+    "subRate": "At a reduced rate",
+    "subtitle": "Exchange your car for a new one with a maximum discount",
+    "phonePlaceholder": "Your phone number",
+    "button": "GET AN OFFER",
+    "disclaimerText": "By clicking \"Get an offer\" you consent to the processing of your",
+    "disclaimerLink": "personal data"
+  },
+
+  "advantages": {
+    "mainTitle": "Toyota Advantages",
+    "items": {
+      "1": {
+        "title": "A vehicle for any task",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur commodo mauris odio, at mattis lacus ullamcorper sit amet."
+      },
+      "2": {
+        "title": "Unified corporate style",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur commodo mauris odio, at mattis lacus ullamcorper sit amet."
+      },
+      "3": {
+        "title": "Modern technological solutions",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur commodo mauris odio, at mattis lacus ullamcorper sit amet."
+      },
+      "4": {
+        "title": "Reliable genuine spare parts",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur commodo mauris odio, at mattis lacus ullamcorper sit amet."
+      },
+      "5": {
+        "title": "Deserves your trust",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur commodo mauris odio, at mattis lacus ullamcorper sit amet."
+      },
+      "6": {
+        "title": "Time-tested quality",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur commodo mauris odio, at mattis lacus ullamcorper sit amet."
+      }
+    }
+  },
+
+  "carHero": {
+    "breadcrumb": {
+      "home": "Home",
+      "catalog": "Car Catalog"
+    },
+    "colorLabel": "Color",
+    "fromPrice": "from 700,000 ₽",
+    "benefitBadge": "Benefit up to 100,000 ₽",
+    "features": {
+      "bestOffer": "We will beat any offer",
+      "noDeposit": "No down payment required",
+      "creditRate": "Credit rate from 1.9%"
+    },
+    "form": {
+      "title": "Get a special price",
+      "deadline": "Only until 10.10.21",
+      "namePlaceholder": "Your name",
+      "phonePlaceholder": "Your phone",
+      "button": "GET AN OFFER",
+      "disclaimerText": "By clicking \"Get discount\" you consent to the processing of your",
+      "disclaimerLink": "personal data"
+    }
+  },
+
+  "discounts": {
+    "more": "Details",
+    "special": {
+      "title": "Special Offer",
+      "sub": "from the dealership"
+    },
+    "cash": {
+      "title": "Cash Discount",
+      "sub": "from ABC Auto"
+    },
+    "tradeIn": {
+      "title": "Trade-in Benefit",
+      "sub": "from ABC Auto"
+    },
+    "recycling": {
+      "title": "Scrappage Benefit",
+      "sub": "from ABC Auto"
+    },
+    "credit": {
+      "title": "Financing Discount",
+      "sub": "Car loan at 1.9%"
+    },
+    "govProgram": {
+      "title": "Government Program",
+      "sub": "Family Car, First Car, Medical Staff, Trade-in Gov Program",
+      "calcText": "of car price"
+    },
+    "summary": {
+      "maxLabel": "Maximum discount",
+      "yourDiscount": "Your discount",
+      "upTo": "up to",
+      "button": "LOCK IN TERMS"
+    }
+  },
+
+  "offerBanner": {
+    "badge": "Special offer until 20.02.2021",
+    "title": "Become a Toyota Camry owner today",
+    "subtitle": "YOUR PERSONAL OFFER",
+    "namePlaceholder": "Your name",
+    "phonePlaceholder": "Your phone",
+    "button": "GET AN OFFER",
+    "disclaimerText1": "By clicking \"Get offer\", you agree to our",
+    "disclaimerLink1": "privacy policy",
+    "disclaimerText2": "and",
+    "disclaimerLink2": "personal data processing rules"
+  },
+
+  "gallery": {
+    "exterior": "Exterior",
+    "interior": "Interior",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pulvinar auctor tellus, id volutpat dui dictum vitae. Sed ac mauris nisi. Maecenas quis sollicitudin dolor, eget molestie dolor. Vivamus sed magna euismod, iaculis eros vitae, vehicula justo. Ut id consequat risus, vitae accumsan ligula. Proin egestas odio sit amet laoreet vulputate. Suspendisse vitae vestibulum quam. Vivamus lectus justo, bibendum at laoreet vel, rhoncus nec sem. Phasellus at mollis magna, in bibendum massa. Praesent malesuada sit amet nibh ut vestibulum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla iaculis a orci sit amet iaculis. Nulla in magna posuere nunc pharetra faucibus. Phasellus id enim libero."
+  },
+
+  "familyCar": {
+    "breadcrumb": {
+      "home": "Home",
+      "credit": "Credit and Installment",
+      "current": "Family Car"
+    },
+    "title": "Family Car",
+    "description": "The \"Family Car\" program is designed for buyers with one or more minor children in the family",
+    "rateValue": "from 1.9%",
+    "rateLabel": "At a preferential rate",
+    "discountLabel": "Of the car cost",
+    "form": {
+      "title": "Get a special price",
+      "deadline": "Only until 10.10.21",
+      "namePlaceholder": "Your name",
+      "phonePlaceholder": "Your phone",
+      "button": "GET AN OFFER",
+      "disclaimerText": "By clicking \"Get discount\" you consent to the processing of your",
+      "disclaimerLink": "personal data"
+    }
+  },
+
+  "calc": {
+    "advantages": {
+      "title": "Program Advantages",
+      "downPaymentVal": "from 0%",
+      "downPaymentLabel": "Down payment",
+      "responseTimeVal": "30 minutes",
+      "responseTimeLabel": "Response from credit specialists",
+      "rateVal": "from 1.9%",
+      "rateLabel": "Loan rate",
+      "approvalVal": "98%",
+      "approvalLabel": "Loan approval"
+    },
+    "step1": {
+      "title": "Your future car",
+      "brand": "Make",
+      "model": "Model",
+      "equipment": "Trim level",
+      "hint": "Select car make and model"
+    },
+    "step2": {
+      "title": "Buy on credit",
+      "discount10": "Executive discount -10% off car price",
+      "discount30k": "\"Profitable Loan\" offer 30,000 ₽ discount",
+      "termLabel": "Loan term, months",
+      "termValue": "36 mos.",
+      "downPaymentPlaceholder": "Down payment",
+      "selectBank": "Select bank"
+    },
+    "tradeIn": {
+      "title": "Trade-in Program",
+      "addBtn": "ADD"
+    },
+    "step3": {
+      "title": "Personal details",
+      "namePlaceholder": "Your name",
+      "phonePlaceholder": "Phone number",
+      "selectGift": "Select a gift",
+      "submitBtn": "GET THE BEST CONDITIONS",
+      "disclaimerText": "By clicking \"Get the best conditions\" you consent to the processing of your",
+      "disclaimerLink": "personal data"
+    }
+  },
+
+
+  "creditAdvantages": {
+    "title": "Car Loan Advantages",
+    "cards": {
+      "programs": "40 loan programs to choose from",
+      "term": "Loan term up to 7 years",
+      "amount": "Loan amount up to 3,000,000 ₽",
+      "earlyRepayment": "Early repayment without penalty",
+      "downPaymentTitle": "0%",
+      "downPaymentDesc": "Down payment from 0%",
+      "rateTitle": "1.9%",
+      "rateDesc": "Loan rate from 1.9%",
+      "approvalRate": "Loan approval rate 98%",
+      "responseTime": "Response from credit specialists within 30 minutes"
+    },
+    "conditions": {
+      "title": "Purchase Conditions",
+      "list": {
+        "downPayment": "Down payment 0 ₽",
+        "term": "Loan term up to 7 years",
+        "firstCar": "State program First Car",
+        "familyCar": "Family Car",
+        "medical": "Car loan for medical workers",
+        "discount60k": "60 000 ₽ discount on new car purchase",
+        "tradeInDiscount": "10% Trade-in discount on new car purchase",
+        "partners": "More than 30 partner banks"
+      }
+    },
+    "documents": {
+      "title": "Required Documents",
+      "passport": "Passport",
+      "driverLicense": "Driver's license"
+    }
+  },
+
+  "discountBanner": {
+    "title": "Get a discount on buying a new car!",
+    "subtitle": "Helping young families not only get on their feet, but also get behind the wheel! The state will pay 10% of the total loan amount for a new car purchase (25% for Far East).",
+    "sections": {
+      "conditions": "Main program conditions",
+      "requirements": "General eligibility requirements"
+    },
+    "items": {
+      "subsidy10": "10% subsidy amount of the car cost without additional equipment"
+    }
+  },
+
+  "expressCredit": {
+    "breadcrumbs": {
+      "home": "Home",
+      "credit": "Credit and installment",
+      "express": "Express credit"
+    },
+    "title": "Express Credit",
+    "subtitle": "Realize your dream of a new car today with a special offer. Fill out the application to get a unique offer.",
+    "badge": {
+      "rate": "from 1.9%",
+      "label": "At a preferential\nrate"
+    },
+    "advantages": {
+      "travel": "We compensate travel to the dealership for all buyers",
+      "insurance": "FAST CASCO and OSAGO issuance in 15 minutes",
+      "discount": "30 000 rubles\ndiscount"
+    },
+    "form": {
+      "title": "Get a special price",
+      "until": "Until October 10",
+      "namePlaceholder": "Your name",
+      "phonePlaceholder": "Your phone",
+      "submitBtn": "GET OFFER",
+      "disclaimerText": "By clicking \"Get discount\" you consent to the processing of your",
+      "disclaimerLink": "personal data"
+    }
+  },
+
+  "creditTerms": {
+    "title": "Loan Terms",
+    "items": {
+      "noIncome": {
+        "title": "No income verification",
+        "desc": "To get a loan, you only need a passport and driver's license. The bank does not require proof of income, seller details, or CASCO insurance."
+      },
+      "noDownPayment": {
+        "title": "No down payment",
+        "desc": "The loan is issued without a down payment to a card from which you can withdraw cash without commission. The bank will deliver the card for free."
+      },
+      "noRegistration": {
+        "title": "No registration hassle",
+        "desc": "To register a car after purchase, you only need copies of the purchase agreement and vehicle passport. Yes, that's all."
+      }
+    }
+  },
+
+  "firstCar": {
+    "breadcrumbs": {
+      "home": "Home",
+      "credit": "Credit and installment",
+      "program": "First car"
+    },
+    "title": "First Car",
+    "subtitle": "Any customer without age restrictions can become a member of the 'First Car' program, the main condition is buying a car for the first time.",
+    "badges": {
+      "rate": "from 1.9%",
+      "rateText": "Rates haven't been\nthis low before",
+      "discount": "-10%",
+      "discountText": "Off the cost\nof the car"
+    },
+    "form": {
+      "title": "Get a special price",
+      "until": "Until October 10",
+      "namePlaceholder": "Your name",
+      "phonePlaceholder": "Your phone",
+      "submitBtn": "GET OFFER",
+      "disclaimerText": "By clicking \"Get discount\" you consent to the processing of your",
+      "disclaimerLink": "personal data"
+    }
+  },
+
+  "tradeInn": {
+    "breadcrumbs": {
+      "home": "Home",
+      "credit": "Credit and installment",
+      "program": "State Trade-in Program"
+    },
+    "title": "State Trade-in Program",
+    "subtitle": "Trade in your car\nfor a new one with a maximum discount",
+    "badge": {
+      "rate": "from 1.9%",
+      "rateLabel": "At a preferential\nrate",
+      "discount": "-10%",
+      "discountLabel": "Off the cost\nof the car"
+    },
+    "advantages": {
+      "equipment": "Installation of any additional equipment",
+      "gift": "Free maintenance TO 0 and TO-1 for every buyer!",
+      "bonusCard": "Bonus card for service maintenance"
+    },
+    "form": {
+      "title": "Get a special price",
+      "until": "Until October 10",
+      "namePlaceholder": "Your name",
+      "phonePlaceholder": "Your phone",
+      "submitBtn": "GET OFFER",
+      "disclaimerText": "By clicking \"Get discount\" you consent to the processing of your",
+      "disclaimerLink": "personal data"
+    }
+  },
+
+  "medical": {
+    "breadcrumbs": {
+      "home": "Home",
+      "credit": "Credit and installment",
+      "program": "Medical workers"
+    },
+    "title": "Medical Workers",
+    "subtitle": "Compensation from 10% to 25%",
+    "badges": {
+      "rate": "from 1.9%",
+      "rateText": "No down\npayment",
+      "discount": "-10%",
+      "discountText": "Off the cost\nof the car"
+    },
+    "form": {
+      "title": "Get a special price",
+      "until": "Until October 10",
+      "namePlaceholder": "Your name",
+      "phonePlaceholder": "Your phone",
+      "submitBtn": "GET OFFER",
+      "disclaimerText": "By clicking \"Get discount\" you consent to the processing of your",
+      "disclaimerLink": "personal data"
+    }
+  },
+
+  "installment": {
+    "breadcrumbs": {
+      "home": "Home",
+      "credit": "Credit and installment",
+      "program": "Installment plan"
+    },
+    "title": "Installment Plan",
+    "subtitle": "Realize your dream of a new car today\nwith a favorable offer. Fill out the application to get\na unique offer.",
+    "badge": {
+      "rate": "0%",
+      "rateLabel": "Overpayment\nfor the car"
+    },
+    "form": {
+      "title": "Get a special price",
+      "until": "Until October 10",
+      "namePlaceholder": "Your name",
+      "phonePlaceholder": "Your phone",
+      "submitBtn": "GET OFFER",
+      "disclaimerText": "By clicking \"Get discount\" you consent to the processing of your",
+      "disclaimerLink": "personal data"
+    }
+  },
+
+  "recycling": {
+    "breadcrumbs": {
+      "home": "Home",
+      "specialOffers": "Special offers",
+      "program": "Recycling"
+    },
+    "title": "Car Recycling",
+    "subtitle": "Any customer can become a participant in the \"Car Recycling\" program without\nage restrictions, the main condition is buying a car for the first time.",
+    "badge": {
+      "rate": "from 1.9%",
+      "rateLabel": "At a preferential\nrate"
+    },
+    "form": {
+      "title": "Get a special price",
+      "until": "Until October 10",
+      "namePlaceholder": "Your name",
+      "phonePlaceholder": "Your phone",
+      "submitBtn": "GET OFFER",
+      "disclaimerText": "By clicking \"Get discount\" you consent to the processing of your",
+      "disclaimerLink": "personal data"
+    }
+  },
+
+  "notFound": {
+    "nav": {
+      "catalog": "CAR CATALOG",
+      "tradeIn": "TRADE-IN",
+      "expressCredit": "EXPRESS CREDIT",
+      "contacts": "CONTACTS"
+    },
+    "title": "Page not found!",
+    "description": "«We have launched a new website to make it convenient and informative.\nPerhaps the page you requested was moved or deleted.\nYou can call us and get qualified assistance from our specialists»",
+    "homeBtn": "TO MAIN PAGE"
+  },
+
+  "carDetails": {
+    "promo": {
+      "vtbTitle": "Installments from VTB",
+      "vtbSub": "0% Installment",
+      "vtbBtn": "Installment",
+      "tradeInTitle": "Trade-in Benefit",
+      "tradeInSub": "Additional benefit\nup to 200,000 RUB",
+      "tradeInBtn": "Trade-in",
+      "creditTitle": "Down payment 0%",
+      "creditSub": "Credit 1.9%",
+      "creditBtn": "Discount"
+    },
+    "calculator": {
+      "downPayment": "Down payment",
+      "term": "Loan term",
+      "termUnit": "mo.",
+      "monthlyPayment": "Monthly payment *",
+      "note": "* Preliminary calculation",
+      "submitBtn": "APPLY FOR CREDIT"
+    },
+    "description": {
+      "title": "Description Toyota Camry 2013 2.0 AT Standard",
+      "p1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et lorem elit. Nam nisi nulla, fringilla vel pharetra ac, luctus in est. Pellentesque faucibus interdum arcu, non molestie leo malesuada in. Donec quam turpis, hendrerit nec ante id, tincidunt convallis sapien. In molestie dignissim elit non mollis. Donec at dapibus nisl, sed aliquam ipsum. Mauris mi libero, congue ut feugiat sit amet, cursus eget orci. Aenean vel fermentum dui. Aenean dictum diam in augue porttitor luctus.",
+      "p2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et lorem elit. Nam nisi nulla, fringilla vel pharetra ac, luctus in est. Pellentesque faucibus interdum arcu, non molestie leo malesuada in. Donec quam turpis, hendrerit nec ante id, tincidunt convallis sapien. In molestie dignissim elit non mollis."
+    },
+    "specs": {
+      "title": "Specifications Toyota Camry 2013 2.0 AT Standard",
+      "maxPower": "Maximum engine power\n(kW) at rpm",
+      "maxPowerVal": "110 hp",
+      "transmission": "Transmission type",
+      "transmissionVal": "Manual",
+      "driveType": "Drive type",
+      "driveTypeVal": "Front-wheel",
+      "engineVolume": "Engine displacement, cc",
+      "engineVolumeVal": "100",
+      "showMoreBtn": "SHOW MORE"
+    }
+  },
+
+  "tradeInBanner": {
+    "title": "Profitable Trade-in",
+    "subtitle": "We will evaluate your car in 10 minutes",
+    "form": {
+      "selectBrand": "Brand",
+      "selectModel": "Model",
+      "selectYear": "Year of release",
+      "selectBody": "Body type",
+      "phonePlaceholder": "Your phone",
+      "submitBtn": "CALLBACK",
+      "disclaimerText": "By clicking \"Get offer\", you agree to the",
+      "disclaimerPrivacy": "privacy policy",
+      "disclaimerAnd": "and",
+      "disclaimerTerms": "terms of personal data processing"
+    }
+  },
+
+  "breadcrumb_home": "Home",
+  "breadcrumb_taxi": "Taxi on Credit",
+  "title_line1": "Special Offer",
+  "title_line2": "for Buying a Car for Taxi",
+  "feature_loan": "Preferential car loan from 1.9%",
+  "feature_wrap": "Free car wrapping",
+  "feature_date": "Offer valid until September 13!",
+  "feature_deposit": "Down payment 0%",
+  "form_title": "Get a special price",
+  "form_badge": "Only until 10.10.21",
+  "input_name": "Your name",
+  "input_phone": "Your phone",
+  "btn_submit": "GET OFFER",
+  "policy_text": "By clicking the \"Get discount\" button, you consent to the processing of your",
+  "policy_link": "personal data",
+
+  "taxi_cars": {
+    "section_title": "Cars for taxi in stock",
+    "class_label": "Select car class",
+    "class_economy": "ECONOMY",
+    "class_comfort": "COMFORT",
+    "class_comfort_plus": "COMFORT +",
+    "select_brand": "Brand",
+    "select_model": "Model",
+    "badge_economy": "ECONOMY",
+    "old_price_from": "from 220 ₽",
+    "price_per_day": "from 82 ₽/day",
+    "feature_gbo": "LPG installation for profit savings",
+    "feature_wrap": "Taxi wrapping and branding",
+    "feature_tires": "Free set of tires",
+    "feature_credit": "0% Installment",
+    "btn_more": "DETAILS",
+    "btn_request": "SUBMIT REQUEST"
+  },
+
+
+  "incomeBanner": {
+    "title": "How much can you\nearn on a taxi?",
+    "headings": {
+      "ownTaxi": "Own Taxi",
+      "rentTaxi": "Taxi Rental",
+      "advantages": "ADVANTAGES",
+      "disadvantages": "DISADVANTAGES"
+    },
+    "advantages": {
+      "ptc": "Car in personal ownership according to standard documentation",
+      "credit": "Credit payment from 90 RUB per day",
+      "installment": "0% installment without down payment",
+      "gbo": "Free HBO installation to save fuel",
+      "gost": "Car wrap according to standard",
+      "documents": "Fast processing of all turnkey documents"
+    },
+    "disadvantages": {
+      "autopark": "Car in ownership of autopark",
+      "rent": "Payment for rented taxi from 1200 RUB per day",
+      "commissions": "Risk of hidden commissions and overpayments",
+      "equipment": "Cannot install additional equipment",
+      "gostMismatch": "Possible mismatch to standard norms",
+      "longDocuments": "Long processing of documents"
+    }
+  },
+
+  "creditCalculator": {
+    "title": "Credit Calculator",
+    "step1": {
+      "title": "Select car class",
+      "placeholder": "Start"
+    },
+    "step2": {
+      "title": "Your future car",
+      "brandPlaceholder": "Select brand",
+      "modelPlaceholder": "Select model",
+      "carName": "Lada Granta Liftback New\n1.6 MT Comfort",
+      "oldPrice": "from 221 100 ₽",
+      "dailyPrice": "from 82 ₽/day"
+    },
+    "step3": {
+      "title": "Loan term, months",
+      "placeholder": "7 years"
+    },
+    "step4": {
+      "title": "Personal data",
+      "namePlaceholder": "Your name",
+      "phonePlaceholder": "Your phone",
+      "submitBtn": "SUBMIT APPLICATION",
+      "disclaimerText": "By clicking \"Submit Application\" you consent to processing your",
+      "disclaimerLink": "personal data"
+    }
+  }
+
+
+
+}

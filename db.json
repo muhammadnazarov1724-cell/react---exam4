@@ -1,0 +1,578 @@
+{
+  "brands": [
+    {
+      "id": "toyota",
+      "name": "Toyota",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0QbMMnpj5soumwFgFgG6eltal0DP0TWLv-Nrajr1nn16pirg5uD3j_vHN&s=10",
+      "popular": true
+    },
+    {
+      "id": "skoda",
+      "name": "Skoda",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL1BxC9JJjx1HE9dLb0pgHMkwEhCOtop4Ozt9B7gf5AxnyEOArcmSNQCce&s=10",
+      "popular": true
+    },
+    {
+      "id": "kia",
+      "name": "Kia",
+      "logo": "https://img.logo.dev/kia.com?token=live_6a1a28fd-6420-4492-aeb0-b297461d9de2&size=512&retina=true&format=png",
+      "popular": true
+    },
+    {
+      "id": "hyundai",
+      "name": "Hyundai",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwYqHYUwCwv1FpUq5E6EYPQ5gOZTrmj3V41oN5fYj1ff3yr0vc8aQ_Fzti&s=10",
+      "popular": true
+    },
+    {
+      "id": "volkswagen",
+      "name": "Volkswagen",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3D4YtQbkI2VTo2B2QXBQJON6wMvOmImVsXIFypKe4Uw&s=10",
+      "popular": true
+    },
+    {
+      "id": "bmw",
+      "name": "BMW",
+      "logo": "https://static.vecteezy.com/system/resources/previews/020/502/870/non_2x/bmw-brand-logo-car-symbol-blue-and-white-design-germany-automobile-illustration-with-black-background-free-vector.jpg",
+      "popular": true
+    },
+    {
+      "id": "mercedes",
+      "name": "Mercedes-Benz",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSZYdM_1fqpm2zbZqv_anIPcG9x6Kd8RCzHRYwin_jiTF4tP4ocNd8jGh8&s=10",
+      "popular": true
+    },
+    {
+      "id": "audi",
+      "name": "Audi",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCDHVWXhBgIUwPcrz6QArOf3mtLzjr0S4GtTzP00iPHoSs2cWwrhq605XP&s=10",
+      "popular": true
+    }
+  ],
+  "models": [
+    {
+      "id": "toyota-camry",
+      "brandId": "toyota",
+      "name": "Новая Camry",
+      "price": 700000,
+      "oldPrice": 1000000,
+      "inStock": 10,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJYEXKuMGqMzYkjHqQEx4ylggWY34VF-hjnhAdoKiAEePfzWHNVM-WTBDd&s=10",
+      "discounts": {
+        "tradeIn": "-20%",
+        "credit": "-10%",
+        "sale": "-10%"
+      },
+      "gifts": ["Страхование в подарок", "КАСКО в подарок", "Комплект резины в подарок"]
+    },
+    {
+      "id": "toyota-corolla",
+      "brandId": "toyota",
+      "name": "Новая Corolla",
+      "price": 980000,
+      "oldPrice": 1280000,
+      "inStock": 20,
+      "image": "https://s3.amazonaws.com/cka-dash/115-0821-WTS230/mainimage.jpg",
+      "discounts": {
+        "tradeIn": "-20%",
+        "credit": "-10%",
+        "sale": "-10%"
+      },
+      "gifts": ["Страхование в подарок", "КАСКО в подарок", "Комплект резины в подарок"]
+    },
+    {
+      "id": "toyota-rav4",
+      "brandId": "toyota",
+      "name": "Новый RAV4",
+      "price": 1450000,
+      "oldPrice": 1800000,
+      "inStock": 5,
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2026-toyota-rav4-limited-352-68f0e7f67ae2b.jpg?crop=0.732xw:0.617xh;0.228xw,0.29xh&resize=2048:*",
+      "discounts": {
+        "tradeIn": "-20%",
+        "credit": "-10%",
+        "sale": "-10%"
+      },
+      "gifts": ["Страхование в подарок", "КАСКО в подарок", "Комплект резины в подарок"]
+    },
+    {
+      "id": "toyota-land-cruiser",
+      "brandId": "toyota",
+      "name": "Land Cruiser Prado",
+      "price": 2900000,
+      "oldPrice": 3400000,
+      "inStock": 3,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHnDhfmyDSaDD8APdrprr3pbp6VF1JkU1z2zFkT0W2E-XagGBbIKAIPd4W&s=10",
+      "discounts": {
+        "tradeIn": "-15%",
+        "credit": "-10%",
+        "sale": "-5%"
+      },
+      "gifts": ["Страхование в подарок", "КАСКО в подарок"]
+    },
+    {
+      "id": "skoda-octavia",
+      "brandId": "skoda",
+      "name": "Skoda Octavia",
+      "price": 1615000,
+      "oldPrice": 1915000,
+      "inStock": 12,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3kJXsdLil3pvlEuTQAMYH_ugckyN74Vdx9H6UImsxHVon-eVIZCUHnoA&s=10",
+      "discounts": {
+        "tradeIn": "-20%",
+        "credit": "-10%",
+        "sale": "-10%"
+      },
+      "gifts": ["Оборудование в подарок", "КАСКО в подарок", "Комплект резины в подарок"]
+    },
+    {
+      "id": "skoda-rapid",
+      "brandId": "skoda",
+      "name": "Skoda Rapid",
+      "price": 1100000,
+      "oldPrice": 1350000,
+      "inStock": 8,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbIk5DqaeCA-dGL4GTgIju24QSKj1kZ2Q__XwV-cj96pZ9ZaQKq777TAM&s=10",
+      "discounts": {
+        "tradeIn": "-20%",
+        "credit": "-10%",
+        "sale": "-10%"
+      },
+      "gifts": ["КАСКО в подарок", "Комплект резины в подарок"]
+    },
+    {
+      "id": "skoda-kodiaq",
+      "brandId": "skoda",
+      "name": "Skoda Kodiaq",
+      "price": 2100000,
+      "oldPrice": 2500000,
+      "inStock": 4,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwLOOeppz4DOvAi2E0ztJChMtgyUP7r-3W8Ab0OY80wQ&s=10",
+      "discounts": {
+        "tradeIn": "-15%",
+        "credit": "-10%",
+        "sale": "-5%"
+      },
+      "gifts": ["Оборудование в подарок", "КАСКО в подарок"]
+    },
+    {
+      "id": "skoda-superb",
+      "brandId": "skoda",
+      "name": "Skoda Superb",
+      "price": 2300000,
+      "oldPrice": 2700000,
+      "inStock": 6,
+      "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Skoda/Superb/9928/1712138063999/front-left-side-47.jpg?imwidth=420&impolicy=resize",
+      "discounts": {
+        "tradeIn": "-15%",
+        "credit": "-10%",
+        "sale": "-10%"
+      },
+      "gifts": ["КАСКО в подарок", "Комплект резины"]
+    },
+    {
+      "id": "kia-rio",
+      "brandId": "kia",
+      "name": "Kia Rio",
+      "price": 950000,
+      "oldPrice": 1200000,
+      "inStock": 15,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5ciNmaglpi9e9RwFRgrAIgCiHvl7vLptnnOEUg1KKCCcRZF038FWYA54j&s=10",
+      "discounts": {
+        "tradeIn": "-20%",
+        "credit": "-10%",
+        "sale": "-10%"
+      },
+      "gifts": ["Комплект резины в подарок", "КАСКО в подарок"]
+    },
+    {
+      "id": "kia-k5",
+      "brandId": "kia",
+      "name": "Kia K5",
+      "price": 1850000,
+      "oldPrice": 2200000,
+      "inStock": 7,
+      "image": "https://www.kia.com/content/dam/kia/us/en/vehicles/k5/2027/mep/in-page-gallery-v2/my27-k5-mep-gallery-ext1.jpg",
+      "discounts": {
+        "tradeIn": "-15%",
+        "credit": "-10%",
+        "sale": "-10%"
+      },
+      "gifts": ["Страхование в подарок", "КАСКО в подарок"]
+    },
+    {
+      "id": "kia-sportage",
+      "brandId": "kia",
+      "name": "Kia Sportage",
+      "price": 1950000,
+      "oldPrice": 2300000,
+      "inStock": 9,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpxuLAVlvkU-JvFeV-d4rffFmXMLoM5mRReizcs2Xw4g&s=10",
+      "discounts": {
+        "tradeIn": "-15%",
+        "credit": "-10%",
+        "sale": "-5%"
+      },
+      "gifts": ["Оборудование в подарок", "Комплект резины в подарок"]
+    },
+    {
+      "id": "kia-sorento",
+      "brandId": "kia",
+      "name": "Kia Sorento",
+      "price": 2600000,
+      "oldPrice": 3000000,
+      "inStock": 4,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz0LRpUOv6GFP4qzcI0T3mvUU9KBZdVRxQGexct80NUSvuCa1pOvf1h68&s=10",
+      "discounts": {
+        "tradeIn": "-10%",
+        "credit": "-10%",
+        "sale": "-5%"
+      },
+      "gifts": ["КАСКО в подарок", "Комплект резины"]
+    },
+    {
+      "id": "hyundai-solaris",
+      "brandId": "hyundai",
+      "name": "Hyundai Solaris",
+      "price": 920000,
+      "oldPrice": 1150000,
+      "inStock": 18,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSITRcdEoNfCRrzh1DKmBfy8bLFgsr1R2A3w6pI8mEeddw0s0zkSIhhdgmB&s=10",
+      "discounts": {
+        "tradeIn": "-20%",
+        "credit": "-10%",
+        "sale": "-10%"
+      },
+      "gifts": ["КАСКО в подарок", "Комплект резины в подарок"]
+    },
+    {
+      "id": "hyundai-elantra",
+      "brandId": "hyundai",
+      "name": "Hyundai Elantra",
+      "price": 1400000,
+      "oldPrice": 1700000,
+      "inStock": 6,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3m3_4cOzel4bIvx0ekwZiAbC0u57xcDTE3VHRBTiL2Q&s=10",
+      "discounts": {
+        "tradeIn": "-15%",
+        "credit": "-10%",
+        "sale": "-10%"
+      },
+      "gifts": ["Страхование в подарок", "КАСКО в подарок"]
+    },
+    {
+      "id": "hyundai-tucson",
+      "brandId": "hyundai",
+      "name": "Hyundai Tucson",
+      "price": 1900000,
+      "oldPrice": 2250000,
+      "inStock": 11,
+      "image": "https://adom.ru/uploads/models/22899842/body/medium/2-white-cream-white-cream_1642263782.webp",
+      "discounts": {
+        "tradeIn": "-15%",
+        "credit": "-10%",
+        "sale": "-5%"
+      },
+      "gifts": ["Оборудование в подарок", "Комплект резины в подарок"]
+    },
+    {
+      "id": "hyundai-santa-fe",
+      "brandId": "hyundai",
+      "name": "Hyundai Santa Fe",
+      "price": 2700000,
+      "oldPrice": 3100000,
+      "inStock": 5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS77tM1FF9IgL6AvKNil14uvDrq_mI9pbCSlL3JQAXszg&s=10",
+      "discounts": {
+        "tradeIn": "-10%",
+        "credit": "-10%",
+        "sale": "-5%"
+      },
+      "gifts": ["КАСКО в подарок", "Комплект резины"]
+    },
+    {
+      "id": "volkswagen-polo",
+      "brandId": "volkswagen",
+      "name": "Volkswagen Polo",
+      "price": 1050000,
+      "oldPrice": 1300000,
+      "inStock": 14,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaj7nHcwp-S1P4eexYGGOaMRjLSXP5KWF1beT5JGRdMg&s=10",
+      "discounts": {
+        "tradeIn": "-20%",
+        "credit": "-10%",
+        "sale": "-10%"
+      },
+      "gifts": ["КАСКО в подарок", "Комплект резины в подарок"]
+    },
+    {
+      "id": "volkswagen-tiguan",
+      "brandId": "volkswagen",
+      "name": "Volkswagen Tiguan",
+      "price": 2200000,
+      "oldPrice": 2600000,
+      "inStock": 8,
+      "image": "https://adom.ru/uploads/models/22679065/body/medium/1-belyy-pure_1642331860.webp",
+      "discounts": {
+        "tradeIn": "-15%",
+        "credit": "-10%",
+        "sale": "-5%"
+      },
+      "gifts": ["Оборудование в подарок", "КАСКО в подарок"]
+    },
+    {
+      "id": "volkswagen-passat",
+      "brandId": "volkswagen",
+      "name": "Volkswagen Passat",
+      "price": 2000000,
+      "oldPrice": 2400000,
+      "inStock": 5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJEd2NHjAM7PmvV2ILj5QJZKd8mF4DboufaKS8p5c1QLvSP_Z6ZFjjN0Es&s=10",
+      "discounts": {
+        "tradeIn": "-15%",
+        "credit": "-10%",
+        "sale": "-10%"
+      },
+      "gifts": ["Страхование в подарок", "Комплект резины"]
+    },
+    {
+      "id": "volkswagen-touareg",
+      "brandId": "volkswagen",
+      "name": "Volkswagen Touareg",
+      "price": 3800000,
+      "oldPrice": 4300000,
+      "inStock": 2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Yb1IcN0Qf675CGQhers63VLaZmqsvGtcX00Yg7XX5Yfwekh-Bah7vuNy&s=10",
+      "discounts": {
+        "tradeIn": "-10%",
+        "credit": "-5%",
+        "sale": "-5%"
+      },
+      "gifts": ["КАСКО в подарок", "Премиум сервис"]
+    },
+    {
+      "id": "bmw-3-series",
+      "brandId": "bmw",
+      "name": "BMW 3 серии",
+      "price": 3200000,
+      "oldPrice": 3700000,
+      "inStock": 6,
+      "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/198567/3-series-exterior-right-front-three-quarter-10.png?isig=0&q=80",
+      "discounts": {
+        "tradeIn": "-10%",
+        "credit": "-10%",
+        "sale": "-5%"
+      },
+      "gifts": ["Страхование в подарок", "КАСКО в подарок"]
+    },
+    {
+      "id": "bmw-5-series",
+      "brandId": "bmw",
+      "name": "BMW 5 серии",
+      "price": 4100000,
+      "oldPrice": 4800000,
+      "inStock": 4,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxjcOJ5BDlpUdy8PhR_KzkLsZz9FiZAS5nvv1XYDxWQ&s",
+      "discounts": {
+        "tradeIn": "-10%",
+        "credit": "-5%",
+        "sale": "-5%"
+      },
+      "gifts": ["Премиум обслуживание", "КАСКО в подарок"]
+    },
+    {
+      "id": "bmw-x5",
+      "brandId": "bmw",
+      "name": "BMW X5",
+      "price": 5500000,
+      "oldPrice": 6200000,
+      "inStock": 3,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa64iz2CdRbuEVeKSB67w5820Vsy460uWIxTXH-SsX5W6UIt_vLQxlMks3&s=10",
+      "discounts": {
+        "tradeIn": "-10%",
+        "credit": "-5%",
+        "sale": "-5%"
+      },
+      "gifts": ["Комплект зимней резины", "КАСКО в подарок"]
+    },
+    {
+      "id": "bmw-m5-f90",
+      "brandId": "bmw",
+      "name": "BMW M5 F90",
+      "price": 4200000,
+      "oldPrice": 4800000,
+      "inStock": 5,
+      "image": "https://www.solido.com/wp-content/uploads/2024/01/s4312704-bmw-m5-f90-competition-brooklyn-grey-2022-01.jpg",
+      "discounts": {
+        "tradeIn": "-10%",
+        "credit": "-5%",
+        "sale": "-5%"
+      },
+      "gifts": ["КАСКО в подарок", "Комплект резины"]
+    },
+    {
+      "id": "mercedes-c-class",
+      "brandId": "mercedes",
+      "name": "Mercedes-Benz C-Класс",
+      "price": 3400000,
+      "oldPrice": 3900000,
+      "inStock": 5,
+      "image": "https://www.iihs.org/cdn-cgi/image/width=636/api/ratings/model-year-images/3261/",
+      "discounts": {
+        "tradeIn": "-10%",
+        "credit": "-10%",
+        "sale": "-5%"
+      },
+      "gifts": ["Страхование в подарок", "КАСКО в подарок"]
+    },
+    {
+      "id": "mercedes-e-class",
+      "brandId": "mercedes",
+      "name": "Mercedes-Benz E-Класс",
+      "price": 4500000,
+      "oldPrice": 5200000,
+      "inStock": 3,
+      "image": "https://www.major-auto.ru/images/models/mercedes/e_ca238/16480/16480_medium.jpg",
+      "discounts": {
+        "tradeIn": "-10%",
+        "credit": "-5%",
+        "sale": "-5%"
+      },
+      "gifts": ["Премиум обслуживание", "КАСКО в подарок"]
+    },
+    {
+      "id": "mercedes-gle",
+      "brandId": "mercedes",
+      "name": "Mercedes-Benz GLE",
+      "price": 5800000,
+      "oldPrice": 6500000,
+      "inStock": 2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo0DtnpWTH4hVe22VSf2QWlD9wM3Rr5HSwye622FZn3-0c0PJZaEJk5Rk&s=10",
+      "discounts": {
+        "tradeIn": "-10%",
+        "credit": "-5%",
+        "sale": "-5%"
+      },
+      "gifts": ["Комплект зимней резины", "КАСКО в подарок"]
+    },
+    {
+      "id": "audi-a4",
+      "brandId": "audi",
+      "name": "Audi A4",
+      "price": 2900000,
+      "oldPrice": 3400000,
+      "inStock": 7,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaRwu29g3QgXO4c6kMNfyUSgPPjEqBUVgkoM56KvB84w&s=10",
+      "discounts": {
+        "tradeIn": "-10%",
+        "credit": "-10%",
+        "sale": "-5%"
+      },
+      "gifts": ["Страхование в подарок", "КАСКО в подарок"]
+    },
+    {
+      "id": "audi-a6",
+      "brandId": "audi",
+      "name": "Audi A6",
+      "price": 3900000,
+      "oldPrice": 4500000,
+      "inStock": 4,
+      "image": "https://mediaservice.audi.com/media/fast/v3_x2TX2hbdRTHf_0kbdf0JulNaZqbXZOSexPdJC5Jk6xRIrQ-bEORQN1UfIi36W2aLv9MbmN0BefDRBBBVJwP9c-kIMjoKg5RVGYpCBUVVhRlCA6fHHaCFTtBFG98-fA9nPM9nIfvuXhT9C-3BI_NXPxj_K-BAw9dR4huUwjHjui3lltzjT4hRAFXpWaUzSNLTbPs3tvbG9eNbNzsWnGj0zySSqSycSNbrdQa8emTmVwyni4k4ka16hWDtln091bUbPQ9bWPgOxvOrvifvc66DRK9ut_pEGLwrC3e7vmEx7PcqjaNllG7q9RqNOvyHYlcNmtM5UzTmMqkpjJTC5m5o1PJhWQpnUpk0wtTuVIyfXSylPPZ7i-Fw2gYYqhjNdPdyXqyJAYW6ikj85Rw9i4mIrjtDGMv4Z_Fv4H_AxRQ7iOocOgawVcJvk_wI8LvEf6E8FUiPxLZQ-tDW0L7nZib2CSxLuIELgnXOVxXkFp4Jwh0CVzi4DZqHXUO9SyqRfge9PPo3xDdR2SQr-CTGXsD_yT-GYJlVAVVRT2B7kA_jH6N6AauQVxrSLcj3YsnjdzA9yi-bcZ2UE6jfIWyT3AXrR_dix5Bn0NfIzrJ8HGG_0S6jC-A7xj-d3Ffwv0xh_Zx7-N5BzmPXEQ2kbeQr-K7E18G3yy-J1A-Q30QdQV1i9BPhG4R-pvQv4SdhEeIbBO5iaagvYZmoX2KXiAK0VGih4na-jrSGu4LuC_jvoG3gXeVkZOM3ELLEWgTWIUDKOsEHyH4IbHzqCahTUJbaJ_jfBZJxvsDo0OMLeJ_Bf8m45sEzhF9nOgq0R07o4hBxApDv-K6H9csriVcvzE8x_AKw18gSUjruBO4X8T9LR4Pngk8z-Cdxvs83rfwH0d5meDPHNRQN1B3CN9N-GHCHSL_oOnIx_B5UWZRXkCV0L5G-wVxA8mBNIHzOTy7eHeR-5DfxH8G__d25l43651Kq1GvmXUrX2hVOoZlFk9VqlWjOGOUTjerdt2OPVmZtxbzyVwqEVs0K-VFK59MpxMxo9pcNPJWa9mMlYya2TLys9byfKVRnC6miomEPVC3v9CqNOrtfKHRrvTUAz17rG2ZZqtSLxv1ctXMJxOxmmkZ84ZldMxW257Kp0Yd06cK_wG8Mt8m7QMAAA.png",
+      "discounts": {
+        "tradeIn": "-10%",
+        "credit": "-5%",
+        "sale": "-5%"
+      },
+      "gifts": ["Премиум обслуживание", "КАСКО в подарок"]
+    },
+    {
+      "id": "audi-q5",
+      "brandId": "audi",
+      "name": "Audi Q5",
+      "price": 4100000,
+      "oldPrice": 4700000,
+      "inStock": 5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSTxJRqyfYAWrbYa-h5itPbRSsrmESHaX96SzATZiaMsblO5gvzy3uLsM&s=10",
+      "discounts": {
+        "tradeIn": "-10%",
+        "credit": "-5%",
+        "sale": "-5%"
+      },
+      "gifts": ["Комплект резины в подарок", "КАСКО в подарок"]
+    },
+    {
+      "id": "audi-q7",
+      "brandId": "audi",
+      "name": "Audi Q7",
+      "price": 5400000,
+      "oldPrice": 6100000,
+      "inStock": 2,
+      "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Audi/Q7/12198/1768206503532/front-left-side-47.jpg",
+      "discounts": {
+        "tradeIn": "-10%",
+        "credit": "-5%",
+        "sale": "-5%"
+      },
+      "gifts": ["Комплект резины", "Премиум сервис"]
+    }
+  ],
+  "car_details": [
+    {
+      "id": "toyota-camry",
+      "modelId": "toyota-camry",
+      "title": "Toyota Camry",
+      "basePrice": 700000,
+      "discountBonus": 100000,
+      "colors": [
+        { "name": "Night Black", "code": "#000000" },
+        { "name": "Pure White", "code": "#ffffff" },
+        { "name": "Silver Metallic", "code": "#c0c0c0" },
+        { "name": "Red Crimson", "code": "#8b0000" }
+      ],
+      "trims": [
+        {
+          "id": "trim-1",
+          "name": "2.5 AT Стандарт 2020",
+          "engine": "2.0 - 150 л.с.",
+          "transmission": "6MT",
+          "drive": "2WD",
+          "price": 1615000,
+          "oldPrice": 2000000,
+          "specs": {
+            "consumption": "5.3 л/100 км",
+            "acceleration": "10.3 с",
+            "speed": "189 км/ч"
+          },
+          "equipment": {
+            "safety": [
+              "Запасное колесо неполноразмерное",
+              "Передние тормоза: Дисковые",
+              "Задние тормоза: Барабанные",
+              "Задние колеса: 175/65R14",
+              "Передние колеса: 175/65R14",
+              "Передний стабилизатор",
+              "Передняя подвеска: Независимая, амортизационная стойка типа МакФерсон"
+            ],
+            "exterior": [
+              "Задняя подвеска: Полунезависимая, торсионная балка",
+              "Иммобилайзер",
+              "Вспомогательная система торможения (BAS)",
+              "Антиблокировочная система (ABS)",
+              "Система помощи при старте на подъеме (HAC)",
+              "Система электронного контроля устойчивости (ESP)",
+              "Система контроля давления в шинах",
+              "Подушка безопасности водительская"
+            ],
+            "interior": [
+              "Подушка безопасности пассажира с функцией деактивации",
+              "Подушка безопасности переднего пассажира",
+              "Дополнительный стоп-сигнал",
+              "ЭРА-ГЛОНАСС",
+              "Крепление ISOFIX"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
